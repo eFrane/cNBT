@@ -7,3 +7,6 @@ nbtreader
 regioninfo
 testdata/dump.bin
 testdata/dump2.bin
+CMakeFiles
+cmake_install.cmake
+Makefile
